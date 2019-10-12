@@ -1,0 +1,61 @@
+State,Time Period,Time Period Date Start,Time Period Date End,Category,Demographic Sort Key,Demographic,"Rate of Hospitalizations for Opioid Overdose per 100,000 Residents",Type of Rate,State FIPS Code
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Statewide,Statewide,14.7,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Age Group,Age 15 to 34,26.6,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Age Group,Age 35 to 54,15.9,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Age Group,Age 55 and over,3.9,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Race/Ethnicity,Black (non-Hispanic),12.4,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Race/Ethnicity,Hispanic,13.0,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Race/Ethnicity,White (non-Hispanic),15.0,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Household Income,"$0 to <$30,000 Household Income",28.8,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Household Income,"$30,000 to <$60,000 Household Income",15.5,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Household Income,"$60,000 to <$90,000 Household Income",12.0,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Household Income,"$90,000+ Household Income",10.0,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Rural/Urban,Rural,9.3,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Rural/Urban,Urban,16.7,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Female/Male,Female,8.5,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Heroin,Female/Male,Male,21.2,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Statewide,Statewide,16.9,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Age Group,Age 15 to 34,10.2,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Age Group,Age 35 to 54,18.5,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Age Group,Age 55 and over,21.1,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Race/Ethnicity,Black (non-Hispanic),19.6,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Race/Ethnicity,Hispanic,7.2,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Race/Ethnicity,White (non-Hispanic),17.7,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Household Income,"$0 to <$30,000 Household Income",25.3,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Household Income,"$30,000 to <$60,000 Household Income",19.2,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Household Income,"$60,000 to <$90,000 Household Income",13.1,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Household Income,"$90,000+ Household Income",9.8,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Rural/Urban,Rural,15.7,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Rural/Urban,Urban,17.3,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Female/Male,Female,18.1,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2016,01/01/2016,12/31/2016,Pain Medication,Female/Male,Male,15.6,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Statewide,Statewide,16.5,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Age Group,Age 15 to 34,28.8,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Age Group,Age 35 to 54,18.1,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Age Group,Age 55 and over,5.3,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Race/Ethnicity,Black (non-Hispanic),16.7,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Race/Ethnicity,Hispanic,19.3,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Race/Ethnicity,White (non-Hispanic),16.3,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Household Income,"$0 to <$30,000 Household Income",40.5,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Household Income,"$30,000 to <$60,000 Household Income",17.1,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Household Income,"$60,000 to <$90,000 Household Income",13.2,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Household Income,"$90,000+ Household Income",9.9,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Rural/Urban,Rural,9.7,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Rural/Urban,Urban,19.0,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Female/Male,Female,9.4,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Heroin,Female/Male,Male,24.1,Rate of hospitalizations for heroin overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Statewide,Statewide,16.5,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Age Group,Age 15 to 34,11.0,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Age Group,Age 35 to 54,17.9,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Age Group,Age 55 and over,19.8,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Race/Ethnicity,Black (non-Hispanic),18.5,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Race/Ethnicity,Hispanic,9.4,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Race/Ethnicity,White (non-Hispanic),17.0,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Household Income,"$0 to <$30,000 Household Income",27.5,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Household Income,"$30,000 to <$60,000 Household Income",18.9,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Household Income,"$60,000 to <$90,000 Household Income",11.8,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Household Income,"$90,000+ Household Income",10.4,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Rural/Urban,Rural,15.6,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Rural/Urban,Urban,16.8,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Female/Male,Female,16.1,Rate of hospitalizations for pain medication overdose per 100000 population,42
+Commonwealth,CY 2017,01/01/2017,12/31/2017,Pain Medication,Female/Male,Male,16.8,Rate of hospitalizations for pain medication overdose per 100000 population,42
