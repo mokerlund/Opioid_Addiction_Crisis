@@ -1,9 +1,9 @@
 # Collaborative project from 2019-2020 bootcamp
 
 Team Members:
-* Megan
-* Elle
-* Amanda
+* Megan Okerlund
+* Elle Xie
+* Amanda Withrow
 
 ## Factors influencing the Opioid epidemic
 ### The opioid epidemic has made national news and is at the forefront of political policy currently. 
@@ -30,4 +30,4 @@ Pennsylvania was chosen due to its extensive data on the topic of the opioid cri
 ***
 ## Outcome:
 * Females tended to overdose more on prescription medication while men tended to overdose more on illegal substances.
-*
+
