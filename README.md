@@ -31,4 +31,6 @@ Pennsylvania was chosen due to its extensive data on the topic of the opioid cri
 ## Outcome:
 * Females tended to overdose more on prescription medication while men tended to overdose more on illegal substances.
 
-[Opitate and Non Opiate Graph](/opiate_and_nonopiate_bycounty.png)
+![Opitate and Non Opiate Graph](/opiate_and_nonopiate_bycounty.png)
+
+![Naloxanlone administration and survival by country](/naloxone_and_survival_bycounty.png)
